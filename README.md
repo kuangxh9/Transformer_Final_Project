@@ -111,3 +111,36 @@ jupyter notebook fibril_classification.ipynb
 - [ESM2 Framework](https://nvidia.github.io/bionemo-framework/models/esm2/)
 - [Transformer-based deep learning for predicting protein properties](https://elifesciences.org/articles/82819)
 - [Building Transformer Models for Proteins From Scratch](https://towardsdatascience.com/building-transformer-models-for-proteins-from-scratch-60884eab5cc8)
+
+## Citation
+```
+@article{lin2023evolutionary,
+  title={Evolutionary-scale prediction of atomic-level protein structure with a language model},
+  author={Lin, Zeming and Abanades, Borja and Kieslich, Chris A and Mannige, Ranjan V},
+  journal={Science},
+  volume={379},
+  number={6637},
+  pages={1123--1130},
+  year={2023},
+  publisher={American Association for the Advancement of Science}
+}
+
+@article{rives2021biological,
+  title={Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences},
+  author={Rives, Alexander and Meier, Joshua and Sercu, Tom and Goyal, Siddharth and Lin, Zeming and Liu, Jason and Guo, Demi and Ott, Myle and Zitnick, C Lawrence and Ma, Jerry and others},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={118},
+  number={15},
+  pages={e2016239118},
+  year={2021},
+  publisher={National Acad Sciences}
+}
+
+@article{amylograph2023,
+  title={AmyloGraph: Computational database of amyloid-protein interactions},
+  author={[Author names]}, # You would need to add the actual authors
+  journal={[Journal name]}, # Add actual journal
+  year={2023},
+  publisher={[Publisher name]}
+}
+```
