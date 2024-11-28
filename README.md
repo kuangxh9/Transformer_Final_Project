@@ -83,7 +83,7 @@ jupyter notebook fibril_classification.ipynb
 
 #### 1. Data-Related Challenges
 - **Limited Dataset Size**: Current dataset of 176 samples is relatively small for deep learning applications
-- **Class Imbalance**: Uneven distribution of samples across classes (52/38/86) affects model performance
+- **Class Imbalance**: Uneven distribution of samples across classes affects model performance
 - **Research Limitations**: Current understanding of fibril protein formation mechanisms is still evolving
 - **Proposed Solutions**:
   - Collaborate with research institutions to expand the dataset
